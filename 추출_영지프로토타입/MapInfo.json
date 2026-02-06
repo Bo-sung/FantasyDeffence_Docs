@@ -1,0 +1,92 @@
+{
+    "mapinfo": {
+        "user": "temp1",
+        "description": "영지 데이터.",
+        "version": "1.0",
+        "date": "2024-06-01T00:00:00Z",
+        "mapData": {
+            "buildings": [
+                {
+                    "id": "main_castle_001",
+                    "typeId": 101,
+                    "position": { "x": 0, "y": 0 },
+                    "rotation": 180
+                },
+                {
+                    "id": "barracks_001",
+                    "typeId": 102,
+                    "position": { "x": 10, "y": 5 },
+                    "rotation": 90
+                },
+                {
+                    "id": "market_001",
+                    "typeId": 103,
+                    "position": { "x": -5, "y": 15 },
+                    "rotation": 0
+                },
+                {
+                    "id": "farm_001",
+                    "typeId": 104,
+                    "position": { "x": 20, "y": -10 },
+                    "rotation": 270
+                }
+            ],
+            "terrain": [
+                {
+                    "id": "road_001",
+                    "typeId": 501,
+                    "position": { "x": 1, "y": 0 },
+                    "rotation": 0
+                },
+                {
+                    "id": "road_002",
+                    "typeId": 501,
+                    "position": { "x": 2, "y": 0 },
+                    "rotation": 0
+                },
+                {
+                    "id": "road_003",
+                    "typeId": 501,
+                    "position": { "x": 3, "y": 0 },
+                    "rotation": 0
+                },
+                {
+                    "id": "road_004",
+                    "typeId": 501,
+                    "position": { "x": 4, "y": 0 },
+                    "rotation": 0
+                },
+                {
+                    "id": "road_005",
+                    "typeId": 501,
+                    "position": { "x": 4, "y": 1 },
+                    "rotation": 90
+                },
+                {
+                    "id": "road_006",
+                    "typeId": 501,
+                    "position": { "x": 4, "y": 2 },
+                    "rotation": 90
+                },
+                {
+                    "id": "road_007",
+                    "typeId": 501,
+                    "position": { "x": 4, "y": 3 },
+                    "rotation": 90
+                },
+                {
+                    "id": "road_008",
+                    "typeId": 501,
+                    "position": { "x": 4, "y": 4 },
+                    "rotation": 90
+                },
+                {
+                    "id": "road_009",
+                    "typeId": 501,
+                    "position": { "x": 4, "y": 5 },
+                    "rotation": 90
+                }
+            ]
+        }
+    }
+}
